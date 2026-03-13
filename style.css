@@ -1,0 +1,28 @@
+body{
+    font-family: arial,sans-serif;
+    margin: 40px;
+    color:#232829;
+    background-image:-webkit-repeating-linear-gradient(black,bisque);
+}
+.title{
+ border-top-right-radius: 2rem;
+  background-color: bisque;
+  font-size: 2rem;
+  margin: buttom 16px;
+  text-align: center;
+}
+.p1{
+ font: size 1rem;
+ line-height: 1.6;
+ text-align: center;
+ font-style:justify;
+ text-combine-upright:top;
+ background-color:bisque;
+ text-box-edge: inherit;
+}
+.p2{
+  font-style: times new roman;
+  lighting-color: black;
+  text-indent: 0%;
+  text-align: center;
+}
